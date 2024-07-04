@@ -17,6 +17,8 @@ public class GitTest {
 		driver.get("some test");
 		
 		driver.get("another test");
+		
+		driver.get("adding from test");
 	}
 
 }

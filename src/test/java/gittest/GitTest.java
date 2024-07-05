@@ -13,6 +13,7 @@ public class GitTest {
 		WebDriver driver = new ChromeDriver();
 		driver.get("www.google.com");
 		driver.get("www.google.com");
+		driver.get("www.google.com");
 	}
 
 }
